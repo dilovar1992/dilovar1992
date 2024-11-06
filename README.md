@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cucumber-BDD framework**
 
-- 📫 How to reach me **dilovar.avrodovic@gmail.com**
+- 📫 How to reach me **dilovar_turaev@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
